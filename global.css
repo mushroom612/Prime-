@@ -1,0 +1,18 @@
+:root {
+    --bg-color-primary: #00050d;
+    --bg-color-secondary: #35383d;
+    --bg-color-tertiary: #e6e6e7;
+
+    --text-color-primary: #ffffff;
+    --text-color-secondary: #00050d;
+
+    --accent-color: #0578ff;
+    
+}
+
+* {
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
